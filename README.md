@@ -30,8 +30,6 @@ This project performs Exploratory Data Analysis (EDA) on an e-commerce dataset t
 
 
 
-SYED ISMAIL
-
  
 
 
