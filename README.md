@@ -29,6 +29,9 @@ This project performs Exploratory Data Analysis (EDA) on an e-commerce dataset t
 - Sales-to-profit ratio varies significantly across customer segments.
 
 
+
+SYED ISMAIL
+
  
 
 
